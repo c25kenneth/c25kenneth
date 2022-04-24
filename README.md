@@ -43,12 +43,13 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Pycharm](https://img.shields.io/badge/-Pycharm%20S3-333333?style=flat&logo=Pycharm)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20S3-333333?style=flat&logo=VisualStudio&logoColor=5C2D91)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=AndroidStudio)
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+<a href="https://github.com/thequickbrownfoxjumpedoverthelazydog">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thequickbrownfoxjumpedoverthelazydog&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thequickbrownfoxjumpedoverthelazydog&theme=buefy&layout=compact" />
 </a>
 
 <br/>
