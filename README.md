@@ -32,6 +32,7 @@
   ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=Numpy)
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas)
   ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=Keras)
+  ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=Streamlit)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=MicrosoftAzure)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AmazonAWS)
@@ -40,6 +41,7 @@
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku&logoColor=430098)
   ![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=Ethereum)
+  ![Twilio](https://img.shields.io/badge/-Twilio-333333?style=flat&logo=Twilio)
 - 🛢 &nbsp;
   ![Firestore](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
   ![AWS S3](https://img.shields.io/badge/-AWS%20S3-333333?style=flat&logo=AmazonS3)
