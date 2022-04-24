@@ -42,6 +42,7 @@
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku&logoColor=430098)
   ![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=Ethereum)
   ![Twilio](https://img.shields.io/badge/-Twilio-333333?style=flat&logo=Twilio)
+  ![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-333333?style=flat&logo=Windows%20Terminal)
 - 🛢 &nbsp;
   ![Firestore](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
   ![AWS S3](https://img.shields.io/badge/-AWS%20S3-333333?style=flat&logo=AmazonS3)
