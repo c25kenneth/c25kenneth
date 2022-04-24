@@ -19,6 +19,7 @@
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart)
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=JAVASCRIPT)
   ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=Solidity)
+  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
 - 🌐 &nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
   ![Chakra-UI](https://img.shields.io/badge/-Chakra%20UI-333333?style=flat&logo=ChakraUI&logoColor=#319795)
