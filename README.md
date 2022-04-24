@@ -29,6 +29,7 @@
   ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=Unity)
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow)
   ![Sci-Kit Learn](https://img.shields.io/badge/-SK%20Learn-333333?style=flat&logo=scikit%20learn)
+  ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=Numpy)
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas)
   ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=Keras)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
