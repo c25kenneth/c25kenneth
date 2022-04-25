@@ -23,7 +23,7 @@
 - 🌐 &nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=02569B)
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android)
-  ![Material Design](https://img.shields.io/badge/-Material Design-333333?style=flat&logo=MaterialDesign)
+  ![Material Design](https://img.shields.io/badge/-Material%20Design-333333?style=flat&logo=MaterialDesign)
   ![Chakra-UI](https://img.shields.io/badge/-Chakra%20UI-333333?style=flat&logo=ChakraUI&logoColor=#319795)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask)
