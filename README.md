@@ -55,7 +55,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20S3-333333?style=flat&logo=VisualStudio&logoColor=5C2D91)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=VisualStudio&logoColor=5C2D91)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=AndroidStudio)
   ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-333333?style=flat&logo=Jupyter)
 
