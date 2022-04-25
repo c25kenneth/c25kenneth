@@ -21,7 +21,7 @@
   ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=Solidity)
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
 - 🌐 &nbsp;
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=02569B)
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android)
   ![Chakra-UI](https://img.shields.io/badge/-Chakra%20UI-333333?style=flat&logo=ChakraUI&logoColor=#319795)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
