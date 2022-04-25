@@ -31,7 +31,7 @@
   ![Sci-Kit Learn](https://img.shields.io/badge/-SK%20Learn-333333?style=flat&logo=scikit%20learn)
   ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=Numpy)
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas)
-  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=Keras&logoColor=#D00000)
+  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=Keras&logoColor=D00000)
   ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=Streamlit)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=MicrosoftAzure)
