@@ -34,7 +34,7 @@
   ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=Keras&logoColor=D00000)
   ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=Streamlit)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
-  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=MicrosoftAzure)
+  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=MicrosoftAzure&logoColor=0078D4)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AmazonAWS)
   ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=Google%20Cloud)
   ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=Opencv)
