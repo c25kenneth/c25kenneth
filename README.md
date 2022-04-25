@@ -16,7 +16,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C#](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=Csharp)
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart)
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=0175C2)
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=JAVASCRIPT)
   ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=Solidity)
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
