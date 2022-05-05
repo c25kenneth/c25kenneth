@@ -17,6 +17,7 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C#](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=Csharp)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=0175C2)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=E34F26)
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=JAVASCRIPT)
   ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=Solidity)
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
@@ -37,6 +38,7 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=MicrosoftAzure&logoColor=0078D4)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AmazonAWS&logoColor=FF9900)
+  ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-333333?style=flat&logo=AWSLambda&logoColor=FF9900)
   ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=Google%20Cloud)
   ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=Opencv)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
@@ -44,6 +46,7 @@
   ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=Vite)
   ![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=Ethereum)
   ![Twilio](https://img.shields.io/badge/-Twilio-333333?style=flat&logo=Twilio)
+  ![Discord.py](https://img.shields.io/badge/-Discord-333333?style=flat&logo=Discord&logoColor=5865F2)
   ![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-333333?style=flat&logo=Windows%20Terminal)
 - 🛢 &nbsp;
   ![Firestore](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
