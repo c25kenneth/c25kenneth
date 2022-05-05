@@ -46,7 +46,7 @@
   ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=Vite)
   ![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=Ethereum)
   ![Twilio](https://img.shields.io/badge/-Twilio-333333?style=flat&logo=Twilio)
-  ![Discord Py](https://img.shields.io/badge/-Discord.py-333333?style=flat&logo=Discord&logoColor=5865F2)
+  ![Discord.py](https://img.shields.io/badge/-Discord.py-333333?style=flat&logo=Discord&logoColor=5865F2)
   ![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-333333?style=flat&logo=Windows%20Terminal)
 - 🛢 &nbsp;
   ![Firestore](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
