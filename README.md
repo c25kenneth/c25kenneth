@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 <h2> Hey everyone! Pleased to meet you! I'm Kenneth.</h2>
-
+![Visitor Count](https://profile-counter.glitch.me/{thequickbrownfoxjumpedoverthelazydog}/count.svg)
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; I love tech and learning everything about it. Currently, I am skilled in Mobile Dev, Game Dev, Machine Learning/AI, Cloud, and more!
