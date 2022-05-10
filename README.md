@@ -75,7 +75,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=thequickbrownfoxjumpedoverthelazydog)
+  ![Profile Views](https://komarev.com/ghpvc/?username=thequickbrownfoxjumpedoverthelazydog)
   <a href="c25kenneth@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-c25kenneth@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
