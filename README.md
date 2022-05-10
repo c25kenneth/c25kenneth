@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 <h2> Hey everyone! Pleased to meet you! I'm Kenneth.</h2>
-
+![Profile Views](https://komarev.com/ghpvc/?username=thequickbrownfoxjumpedoverthelazydog)
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; I love tech and learning everything about it. Currently, I am skilled in Mobile Dev, Game Dev, Machine Learning/AI, Cloud, and more!
@@ -75,7 +75,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=thequickbrownfoxjumpedoverthelazydog)
   <a href="c25kenneth@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-c25kenneth@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
