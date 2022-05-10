@@ -3,11 +3,11 @@
 <h2> Hey everyone! Pleased to meet you! I'm Kenneth.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 🤔 &nbsp; I love tech and learning everything about it. Currently, I am skilled in Mobile Dev, Game Dev, Machine Learning/AI, Cloud, and more!
-- 🎓 &nbsp; I am a current high school student in Washington!
-- 💼 &nbsp; I've worked in a couple of different organizations. I did a variety of things from making educational content on Machine Learning, to learning about audio plugins!
-- 🌱 &nbsp; I am currently trying to learn more about Web3 and decentralized applications! 🦊
-- ✍️ &nbsp; I am always trying to learn more about this expanding field of tech!
+  - 🤔 &nbsp; I love tech and learning everything about it. Currently, I am skilled in Mobile Dev, Game Dev, Machine Learning/AI, Cloud, and more!
+  - 🎓 &nbsp; I am a current high school student in Washington!
+  - 💼 &nbsp; I've worked in a couple of different organizations. I did a variety of things from making educational content on Machine Learning, to learning about audio plugins!
+  - 🌱 &nbsp; I am currently trying to learn more about Web3 and decentralized applications! 🦊
+  - ✍️ &nbsp; I am always trying to learn more about this expanding field of tech!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
