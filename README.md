@@ -61,6 +61,7 @@
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=VisualStudio&logoColor=5C2D91)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=AndroidStudio)
   ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-333333?style=flat&logo=Jupyter)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=F24E1E)
 
 <br/>
 
