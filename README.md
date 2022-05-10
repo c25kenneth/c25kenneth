@@ -4,6 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+![](https://komarev.com/ghpvc/?username=Sarthak-Dayal)
 - 🤔 &nbsp; I love tech and learning everything about it. Currently, I am skilled in Mobile Dev, Game Dev, Machine Learning/AI, Cloud, and more!
 - 🎓 &nbsp; I am a current high school student in Washington!
 - 💼 &nbsp; I've worked in a couple of different organizations. I did a variety of things from making educational content on Machine Learning, to learning about audio plugins!
