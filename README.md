@@ -20,6 +20,7 @@
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=0175C2)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=E34F26)
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=JAVASCRIPT)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
   ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=Solidity)
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
 - 🌐 &nbsp;
