@@ -59,7 +59,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
-  ![Linux Terminal](https://img.shields.io/badge/-Linux Terminal-333333?style=flat&logo=Linux)
+  ![Linux Terminal](https://img.shields.io/badge/-Linux%20Terminal-333333?style=flat&logo=Linux)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=GNUBash)
 - 🔧 &nbsp;
