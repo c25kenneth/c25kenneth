@@ -3,6 +3,8 @@
 <h2> Hey everyone! Pleased to meet you! I'm Kenneth.</h2>
 
 ![](https://komarev.com/ghpvc/?username=thequickbrownfoxjumpedoverthelazydog)
+
+<a href=gleeful-palmier-d8fa70>Link to website</a>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; I love tech and learning everything about it. Currently, I am skilled in Mobile Dev, Game Dev, Machine Learning/AI, Cloud, and more!
