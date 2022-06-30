@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=thequickbrownfoxjumpedoverthelazydog)
 
-<a href=gleeful-palmier-d8fa70>Link to website</a>
+<a href=https://thequickbrownfoxjumpedoverthelazydog.github.io/Portfolio-website/index.html>Link to website</a>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; I love tech and learning everything about it. Currently, I am skilled in Mobile Dev, Game Dev, Machine Learning/AI, Cloud, and more!
