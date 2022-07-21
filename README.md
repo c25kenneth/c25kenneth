@@ -57,6 +57,7 @@
   ![Firestore](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
   ![AWS S3](https://img.shields.io/badge/-AWS%20S3-333333?style=flat&logo=AmazonS3)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
+  ![AWS DynamoDB](https://img.shields.io/badge/-AWS%20DynamoDB-333333?style=flat&logo=Amazon%20DynamoDB&logoColor=4053D6)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
