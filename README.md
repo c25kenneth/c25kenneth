@@ -45,6 +45,7 @@
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=MicrosoftAzure&logoColor=0078D4)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AmazonAWS&logoColor=FF9900)
   ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-333333?style=flat&logo=AWSLambda&logoColor=FF9900)
+  ![AWS API Gateway](https://img.shields.io/badge/-AWS%20API%20Gateway-333333?style=flat&logo=AmazonAPIGateway&logoColor=FF4F8B)
   ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=Google%20Cloud)
   ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=Opencv)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
