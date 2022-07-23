@@ -56,7 +56,7 @@
   ![Discord.py](https://img.shields.io/badge/-Discord.py-333333?style=flat&logo=Discord&logoColor=5865F2)
   ![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-333333?style=flat&logo=Windows%20Terminal)
 - 🛢 &nbsp;
-  ![Firestore](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
+  ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=Firebase)
   ![AWS S3](https://img.shields.io/badge/-AWS%20S3-333333?style=flat&logo=AmazonS3)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
   ![AWS DynamoDB](https://img.shields.io/badge/-AWS%20DynamoDB-333333?style=flat&logo=Amazon%20DynamoDB&logoColor=4053D6)
