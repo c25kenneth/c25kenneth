@@ -13,7 +13,7 @@
 - 🌱 &nbsp; I am currently trying to learn more about Web3 and decentralized applications! 🦊
 - ✍️ &nbsp; I am always trying to learn more about this expanding field of tech!
 
-<h3> 🛠 &nbsp;My Tech Stack/What I Have Worked With</h3>
+<h3> 🛠 &nbsp;My Tech Stack | What I Have Worked With</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
