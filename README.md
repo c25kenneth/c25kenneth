@@ -26,6 +26,7 @@
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
   ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=Solidity)
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
+  ![NodeJS](https://img.shields.io/badge/-Node%20JS-333333?style=flat&logo=Node.JS&logoColor=339933)
 - 🌐 &nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=02569B)
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android)
@@ -61,6 +62,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=NPM)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
   ![Linux Terminal](https://img.shields.io/badge/-Linux%20Terminal-333333?style=flat&logo=Linux)
