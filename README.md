@@ -70,7 +70,7 @@
   ![Linux Terminal](https://img.shields.io/badge/-Linux%20Terminal-333333?style=flat&logo=Linux)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=GNUBash)
-  ![Expo](https://img.shields.io/badge/-Bash-333333?style=flat&logo=Expo&logoColor=000020)
+  ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=Expo&logoColor=000020)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm)
