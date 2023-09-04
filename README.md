@@ -1,8 +1,6 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey everyone! Pleased to meet you! I'm Kenneth.</h2>
 
-![](https://komarev.com/ghpvc/?username=c25kenneth)
+![](https://komarev.com/ghpvc/?username=thequickbrownfoxjumpedoverthelazydog)
 
 <a href=https://c25kenneth.github.io//>Link to website</a>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
