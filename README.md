@@ -2,7 +2,7 @@
 
 <h2> Hey everyone! Pleased to meet you! I'm Kenneth.</h2>
 
-![](https://komarev.com/ghpvc/?username=thequickbrownfoxjumpedoverthelazydog)
+![](https://komarev.com/ghpvc/?username=c25kenneth)
 
 <a href=https://c25kenneth.github.io//>Link to website</a>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
