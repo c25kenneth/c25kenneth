@@ -80,8 +80,8 @@
 <br/>
 
 <a href="https://github.com/thequickbrownfoxjumpedoverthelazydog">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thequickbrownfoxjumpedoverthelazydog&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thequickbrownfoxjumpedoverthelazydog&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c25kenneth&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c25kenneth&theme=buefy&layout=compact" />
 </a>
 
 <br/>
