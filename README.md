@@ -73,7 +73,8 @@ Scroll down to see my hackathon/tech awards! 🏆</h2>
   <br />
 - 2021 SyntHacks II Second Place Winner <br />
 
-<br/>
+<br />
+<br />
 <a href="https://github.com/thequickbrownfoxjumpedoverthelazydog">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c25kenneth&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c25kenneth&theme=buefy&layout=compact" />
