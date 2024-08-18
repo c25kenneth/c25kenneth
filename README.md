@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=thequickbrownfoxjumpedoverthelazydog)
 
-<a href=https://c25kenneth.github.io//>Link to website</a>
+<h2> <a href=https://c25kenneth.github.io//>Link to website</a> </h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; I love tech and learning everything about it. Currently, I am skilled in Mobile Dev, Game Dev, Machine Learning/AI, Cloud, and more!
@@ -11,7 +11,7 @@
 - 🌱 &nbsp; I am currently trying to learn more about Web3 and decentralized applications! 🦊
 - ✍️ &nbsp; I am always trying to learn more about this expanding field of tech!
 
-<h3> 🛠 &nbsp;My Main Tech Stack (view my projects to see everything I've worked with!)</h3>
+<h3> 🛠 &nbsp;My Main Tech Stack (view my projects to see everything I've worked with)!</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
