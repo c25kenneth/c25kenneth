@@ -1,5 +1,5 @@
 <h2>Hey everyone! Pleased to meet you! I'm Kenneth. 👋 <br />
-Learn more about me here. Scroll down to see my <strong>tech stack</strong> and <strong>hackathon/tech awards</strong>!</h2>
+Learn more about me here. Scroll down to see my hackathon/tech awards! 🏆</h2>
 
 
 ![](https://komarev.com/ghpvc/?username=thequickbrownfoxjumpedoverthelazydog)
