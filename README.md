@@ -57,9 +57,9 @@
 <br/>
 
 <h3> 🏆 &nbsp;My Hackathon/Tech Achivements</h3>
-- Anthony Parker Memorial Prize from the BC Institute for IT (Awarded for developing Horus; Most innovative in the field of healthcare);
-- 2023 Community AI Fair Finalist (1 of 10 Finalists Selected Worldwide; AI-powered web app for rice disease classification);
-- AYLUS Humanity Hacks 1st Place Winner (1st Place out of 100+ participants; developed gamified web application to encourage environmental cleanliness);
+- Anthony Parker Memorial Prize from the BC Institute for IT (Awarded for developing Horus; Most innovative in the field of healthcare) <br />
+- 2023 Community AI Fair Finalist (1 of 10 Finalists Selected Worldwide; AI-powered web app for rice disease classification) <br />
+- AYLUS Humanity Hacks 1st Place Winner (1st Place out of 100+ participants; developed gamified web application to encourage environmental cleanliness) <br />
 - 
 - 
 
