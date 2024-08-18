@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=thequickbrownfoxjumpedoverthelazydog)
 
-<h2> <a href=https://c25kenneth.github.io//>Link to website</a> </h2>
+<h1> <a href=https://c25kenneth.github.io//>Link to my porfolio site! 💻 </a> </h1>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; I love tech and learning everything about it. Currently, I am skilled in Mobile Dev, Game Dev, Machine Learning/AI, Cloud, and more!
