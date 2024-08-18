@@ -50,7 +50,7 @@ Scroll down to see my hackathon/tech awards! 🏆</h2>
   ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-333333?style=flat&logo=Jupyter)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=F24E1E)
 
-<h3> 🏆 &nbsp;My Hackathon/Tech Achivements</h3>
+<h3> 🏆 &nbsp;My Hackathon/Tech Achivements 🏆 </h3>
 - Anthony Parker Memorial Prize from the BC Institute for IT (Awarded for developing Horus; Most innovative in the field of healthcare) <br />
 <br />
 - 2023 Community AI Fair Finalist (1 of 10 Finalists Selected Worldwide; Competition was previously sponsored by Google for Non-Profits and Amazon Smile) <br />
