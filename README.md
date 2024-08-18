@@ -57,13 +57,13 @@
 <br/>
 
 <h3> 🏆 &nbsp;My Hackathon/Tech Achivements</h3>
-- Anthony Parker Memorial Prize from the BC Institute for IT (Awarded for developing Horus; Most innovative in the field of healthcare) 
+- Anthony Parker Memorial Prize from the BC Institute for IT (Awarded for developing Horus; Most innovative in the field of healthcare) <br />
 <br />
 - 2023 Community AI Fair Finalist (1 of 10 Finalists Selected Worldwide; Competition was previously sponsored by Google for Non-Profits and Amazon Smile) <br />
 <br />
 - App Dev League 2021 Hackathon First Place Winner (1st Place out of 200+ participants) <br />
 <br />
-- 2024 M&TSI Best Technology Integration Award Winner (1 of 75 selected for M&TSI 2024; < 8% acceptance rate; built AI-powered baby monitor paired with mobile app)
+- 2024 M&TSI Best Technology Integration Award Winner (1 of 75 selected for M&TSI 2024; < 8% acceptance rate; built AI-powered baby monitor paired with mobile app) <br />
   <br />
 - AYLUS Humanity Hacks 1st Place Winner (1st Place out of 100+ participants) <br />
   <br />
