@@ -58,11 +58,15 @@
 
 <h3> 🏆 &nbsp;My Hackathon/Tech Achivements</h3>
 - Anthony Parker Memorial Prize from the BC Institute for IT (Awarded for developing Horus; Most innovative in the field of healthcare) <br />
-- 2023 Community AI Fair Finalist (1 of 10 Finalists Selected Worldwide; AI-powered web app for rice disease classification) <br />
-- AYLUS Humanity Hacks 1st Place Winner (1st Place out of 100+ participants; developed gamified web application to encourage environmental cleanliness) <br />
-- 
-- 
-
+- 2023 Community AI Fair Finalist (1 of 10 Finalists Selected Worldwide; Competition was previously sponsored by Google for Non-Profits and Amazon Smile) <br />
+- App Dev League 2021 Hackathon First Place Winner (1st Place out of 200+ participants) <br />
+- AYLUS Humanity Hacks 1st Place Winner (1st Place out of 100+ participants) <br />
+- Honorable Mention in 2022 Comap's High School Mathematical Contest in Modeling (HiMCM) (Phenomenal research project and paper on future air quality levels using carbon dioxide PPM data. Used a variety of algorithms and data science tools for project including Facebook's Prophet, ARIMA, and rolling means)<br />
+- 2022 STEMist Hacks Second Place Winner (2nd Place out of 100+ participants) <br />
+- 2022 BlairHacks 5 Most Helpful to Humanity Award Winner <br />
+- 2022 OCDSB Hackathon Innovation Award <br />
+- 2022 Eventlore Hacks Second Place Winner <br />
+- 2021 SyntHacks II Second Place Winner <br />
 
 <br/>
 <a href="https://github.com/thequickbrownfoxjumpedoverthelazydog">
