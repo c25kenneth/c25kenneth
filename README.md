@@ -2,7 +2,6 @@
 
 
 
-
 ![](https://komarev.com/ghpvc/?username=thequickbrownfoxjumpedoverthelazydog)
 
 <h1> <a href=https://c25kenneth.github.io//>⭐️ Link to my porfolio site! ⭐️</a> </h1>
