@@ -24,7 +24,7 @@
 - 🌐 &nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=02569B)
   ![Chakra-UI](https://img.shields.io/badge/-Chakra%20UI-333333?style=flat&logo=ChakraUI&logoColor=#319795)
-  ![React/React Native](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React + React Native](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask)
   ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=Unity)
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow)
