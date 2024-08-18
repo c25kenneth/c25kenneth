@@ -67,7 +67,7 @@ Scroll down to see my hackathon/tech awards! 🏆</h2>
   <br />
 - 2022 BlairHacks 5 Most Helpful to Humanity Award Winner <br />
   <br />
-- 2022 OCDSB Hackathon Innovation Award <br />
+- 2022 OCDSB Hackathon Innovation Award + Most Practical Award<br />
   <br />
 - 2022 Eventlore Hacks Second Place Winner <br />
   <br />
