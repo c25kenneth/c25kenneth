@@ -63,6 +63,11 @@
 
 <br/>
 <h3> 🏆 &nbsp;My Hackathon/Tech Achivements</h3>
+- Anthony Parker Memorial Prize from the BC Institute for IT (Awarded for developing Horus; Most innovative in the field of healthcare)
+- 
+- 
+- 
+- 
 
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
