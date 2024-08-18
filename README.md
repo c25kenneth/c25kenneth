@@ -1,14 +1,9 @@
-<h2>Hey everyone! Pleased to meet you! I'm Kenneth. Learn more about me here. Scroll down to see my <strong>tech stack</strong> and <strong>hackathon/tech awards</strong>!</h2>
-
+<h2>Hey everyone! 👋 Pleased to meet you! I'm Kenneth. Learn more about me here. Scroll down to see my <strong>tech stack</strong> and <strong>hackathon/tech awards</strong>!</h2>
 
 
 ![](https://komarev.com/ghpvc/?username=thequickbrownfoxjumpedoverthelazydog)
 
 <h1> <a href=https://c25kenneth.github.io//>⭐️ Link to my porfolio site! ⭐️</a> </h1>
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; I love tech and learning everything about it. Currently, I am skilled in Mobile Dev, Game Dev, Machine Learning/AI, Cloud, and more!
-- 🎓 &nbsp; I am a current high school student in Washington!
 
 <h3> 🛠 &nbsp;My Main Tech Stack (view my projects to see everything I've worked with)!</h3>
 
