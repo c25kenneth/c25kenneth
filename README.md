@@ -61,7 +61,7 @@ Scroll down to see my hackathon/tech awards! 🏆</h2>
   <br />
 - AYLUS Humanity Hacks 1st Place Winner (1st Place out of 100+ participants) <br />
   <br />
-- Honorable Mention in 2022 Comap's High School Mathematical Contest in Modeling (HiMCM) (Phenomenal research project and paper on future air quality levels using carbon dioxide PPM data. Used a variety of algorithms and data science tools for project including Facebook's Prophet, ARIMA, and rolling means)<br />
+- Honorable Mention in 2022-23 Comap's High School Mathematical Contest in Modeling (HiMCM) (Phenomenal research project and paper on future air quality levels using carbon dioxide PPM data. Used a variety of algorithms and data science tools for project including Facebook's Prophet, ARIMA, and rolling means. Distinction received among 3,000+ participants and 800+ teams worldwide)<br />
   <br />
 - 2022 STEMist Hacks Second Place Winner (2nd Place out of 100+ participants) <br />
   <br />
