@@ -57,7 +57,7 @@ Scroll down to see my hackathon/tech awards! 🏆</h2>
 <br />
 - App Dev League Hackathon First Place Winner (1st Place out of 200+ participants) <br />
 <br />
-- 2024 M&TSI Best Technology Integration Award Winner (1 of 75 selected for M&TSI 2024; < 8% acceptance rate; built AI-powered baby monitor paired with mobile app) <br />
+- 2024 M&TSI Best Technology Integration Award Winner (1 of 75 selected for M&TSI 2024; ~3-7% acceptance rate; built AI-powered baby monitor paired with mobile app) <br />
   <br />
 - AYLUS Humanity Hacks 1st Place Winner (1st Place out of 100+ participants) <br />
   <br />
