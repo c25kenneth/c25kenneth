@@ -1,4 +1,4 @@
-<h2>Hey everyone! Pleased to meet you! I'm Kenneth. 👋 <br /> 
+<h2>Hey everyone! Pleased to meet you! I'm Kenneth Choi. 👋 <br /> 
 
 <br />
 
