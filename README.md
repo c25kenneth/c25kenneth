@@ -33,6 +33,7 @@ Scroll down to see my hackathon/tech awards! 🏆</h2>
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas&logoColor=150458)
   ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=Streamlit)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AmazonAWS&logoColor=FF9900)
+  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Azure)
   ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=Opencv)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku&logoColor=430098)
