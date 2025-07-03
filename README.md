@@ -46,6 +46,8 @@ Scroll down to see my hackathon/tech awards! 🏆</h2>
   ![AWS DynamoDB](https://img.shields.io/badge/-AWS%20DynamoDB-333333?style=flat&logo=Amazon%20DynamoDB&logoColor=4053D6)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=GitHub&logoColor=#181717)
+  ![Github Actions](https://img.shields.io/badge/-Github%20Actions-333333?style=flat&logo=GitHubActions)
   ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=NPM)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
