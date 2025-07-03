@@ -19,7 +19,7 @@ Scroll down to see my hackathon/tech awards! 🏆</h2>
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=E34F26)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS&logoColor=264de4)
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=JAVASCRIPT)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=JAVA)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=CoffeeScript&logoColor=FFA500)
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
 - 🌐 &nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=02569B)
