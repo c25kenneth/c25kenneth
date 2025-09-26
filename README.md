@@ -28,7 +28,7 @@ Scroll down to see my hackathon/tech awards! 🏆</h2>
   ![React/React Native](https://img.shields.io/badge/-React%2FReact%20Native-333333?style=flat&logo=react)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=TailwindCSS&logoColor=38bdf9)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask)
-  ![ExpressJS](https://img.shields.io/badge/-ExpressJS-333333?style=flat&logo=Express)
+  ![Express](https://img.shields.io/badge/-ExpressJS-333333?style=flat&logo=Express)
   ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=Unity)
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow)
   ![Sci-Kit Learn](https://img.shields.io/badge/-SK%20Learn-333333?style=flat&logo=scikit%20learn)
