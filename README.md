@@ -59,6 +59,8 @@ Scroll down to see my hackathon/tech awards! 🏆</h2>
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=F24E1E)
 
 <h3> 🏆 &nbsp;My Hackathon/Tech Achivements 🏆 </h3>
+- 2025 YC AI Agent Jam Hackathon 1st Place (Coding Agent Category)<br />
+<br />
 - Anthony Parker Memorial Prize from the BC Institute for IT (Awarded for developing Horus; Most innovative in the field of healthcare) <br />
 <br />
 - 2023 Community AI Fair Finalist (1 of 10 Finalists Selected Worldwide; Competition was previously sponsored by Google for Non-Profits and Amazon Smile) <br />
