@@ -25,7 +25,7 @@ Scroll down to see my hackathon/tech awards! 🏆</h2>
 - 🌐 &nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=02569B)
   ![React/React Native](https://img.shields.io/badge/-React%2FReact%20Native-333333?style=flat&logo=react)
-  ![[Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=TailwindCSS&logoColor=38bdf9)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
